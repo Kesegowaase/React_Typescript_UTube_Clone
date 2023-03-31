@@ -1,0 +1,1 @@
+export const UTUBE_API_URL = "https://youtube.googleapis.com/youtube/v3";
